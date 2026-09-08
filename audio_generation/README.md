@@ -4,6 +4,6 @@ Music, sound effects, and voice.
 
 ## Prompts
 
-No prompts saved yet. Copy the [prompt template](../templates/prompt-template.md) into this folder, give it a descriptive filename, and add a link here.
+- [Europop EDM song in Waveform](europop-edm-song-waveform.md) — Create a complete track with catchy melodies, dramatic drops, automation, mixing, and mastering.
 
 [Back to all categories](../README.md)
