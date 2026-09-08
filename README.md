@@ -11,6 +11,7 @@ This repo collects prompts I find useful from my own or someone else's interacti
 | [Audio generation](audio_generation/README.md) | Music, sound effects, and voice |
 | [Video generation](video_generation/README.md) | Scenes, motion, and storyboards |
 | [Image generation](image_generation/README.md) | Images, illustrations, and image editing |
+| [3D modeling](3d_modeling/README.md) | 3D reconstruction, interiors, animation, and rendering |
 | [Coding](coding/README.md) | Implementation, debugging, code review, and testing |
 | [Writing](writing/README.md) | Drafting, editing, and tone |
 | [Research and learning](research_and_learning/README.md) | Research, explanations, and study |
