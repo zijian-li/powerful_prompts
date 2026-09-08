@@ -8,6 +8,7 @@ This repo collects prompts I find useful from my own or someone else's interacti
 
 | Category | What belongs here |
 | --- | --- |
+| [General](general/README.md) | Reusable instructions for review, iteration, and better results |
 | [Audio generation](audio_generation/README.md) | Music, sound effects, and voice |
 | [Video generation](video_generation/README.md) | Scenes, motion, and storyboards |
 | [Image generation](image_generation/README.md) | Images, illustrations, and image editing |
