@@ -13,6 +13,7 @@ This repo collects prompts I find useful from my own or someone else's interacti
 | [Video generation](video_generation/README.md) | Scenes, motion, and storyboards |
 | [Image generation](image_generation/README.md) | Images, illustrations, and image editing |
 | [3D modeling](3d_modeling/README.md) | 3D reconstruction, interiors, animation, and rendering |
+| [Game generation](game_generation/README.md) | Playable games, procedural worlds, characters, and gameplay |
 | [Coding](coding/README.md) | Implementation, debugging, code review, and testing |
 | [Writing](writing/README.md) | Drafting, editing, and tone |
 | [Research and learning](research_and_learning/README.md) | Research, explanations, and study |
