@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Temporary editor files
+*.swp
+*.swo
+*~
